@@ -1,0 +1,73 @@
+{'domain': 'wwu.youtube.com'}
+{'domain': 'www.you4ube.com', 'dns-ns': ['sk.s5.ans1.ns148.ztomy.com', 'sk.s5.ans2.ns148.ztomy.com'], 'dns-A': ['208.91.197.46']}
+{'domain': 'www.youtwbe.com', 'dns-A': ['52.4.209.250']}
+{'domain': 'sww.youtube.com'}
+{'domain': 'www.yoqtube.com'}
+{'domain': 'www.youtube.cnm'}
+{'domain': 'wwwnyoutube.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns3.above.com', 'ns4.above.com'], 'dns-A': ['103.224.212.253']}
+{'domain': 'vww.youtube.com'}
+{'domain': 'www.yowtube.com', 'dns-A': ['209.126.123.13']}
+{'domain': 'wwwz.youtube.com'}
+{'domain': 'www.youtube.gom'}
+{'domain': 'www.qoutube.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns1.above.com', 'ns2.above.com'], 'dns-A': ['103.224.212.222']}
+{'domain': 'www.youture.com', 'dns-ns': ['sk.s7.ans1.ns147.klczy.com', 'sk.s7.ans2.ns147.klczy.com'], 'dns-A': ['208.91.196.152']}
+{'domain': 'www.youtubd.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns1.above.com', 'ns2.above.com'], 'dns-A': ['103.224.182.246']}
+{'domain': 'wwg.youtube.com'}
+{'domain': 'www.ynutube.com', 'dns-ns': ['ns1.parkingcrew.net', 'ns2.parkingcrew.net'], 'dns-A': ['185.53.178.13']}
+{'domain': 'wsw.youtube.com'}
+{'domain': 'www.youtuje.com'}
+{'domain': 'www.youuube.com'}
+{'domain': 'www.ygutube.com'}
+{'domain': 'www.youtubg.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns1.above.com', 'ns2.above.com'], 'dns-A': ['103.224.212.222']}
+{'domain': 'wwwww.youtube.com'}
+{'domain': 'www.youtube.co-'}
+{'domain': 'www.9outube.com', 'dns-ns': ['ns-1133.awsdns-13.org', 'ns-1919.awsdns-47.co.uk', 'ns-490.awsdns-61.com', 'ns-661.awsdns-18.net'], 'dns-A': ['52.216.2.42']}
+{'domain': 'www.yo5tube.com', 'dns-A': ['198.54.117.215', '198.54.117.216', '198.54.117.217', '198.54.117.218']}
+{'domain': 'www.xoutube.com'}
+{'domain': 'wwwwww.youtube.com'}
+{'domain': 'www.ykutube.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns1.above.com', 'ns2.above.com'], 'dns-A': ['103.224.182.207']}
+{'domain': 'www.youdube.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns1.above.com', 'ns2.above.com'], 'dns-A': ['103.224.182.210']}
+{'domain': 'www.youtube.aom'}
+{'domain': 'www.youtube.som'}
+{'domain': 'www.youttbe.com', 'dns-A': ['74.208.64.244']}
+{'domain': 'www.youtubencom'}
+{'domain': 'www.youtebe.com', 'dns-A': ['69.162.80.59']}
+{'domain': 'www.youtube.coe'}
+{'domain': 'ww7.youtube.com'}
+{'domain': 'www.yoetube.com', 'dns-A': ['198.50.233.235']}
+{'domain': 'www.youtuce.com', 'dns-A': ['158.69.143.80']}
+{'domain': 'www.youtube.coo'}
+{'domain': 'uww.youtube.com'}
+{'domain': 'www.youtube.com', 'dns-A': ['216.58.192.142'], 'dns-AAAA': ['2607:f8b0:4009:816::200e']}
+{'domain': 'www.youtube.col'}
+{'domain': 'www.youtube.cmm'}
+{'domain': 'www.youtufe.com', 'dns-ns': ['sk.s5.ans1.ns148.ztomy.com', 'sk.s5.ans2.ns148.ztomy.com'], 'dns-A': ['208.91.197.46']}
+{'domain': 'wvw.youtube.com'}
+{'domain': 'w-ww.youtube.com'}
+{'domain': 'www.youtube.bom'}
+{'domain': 'www.ymutube.com'}
+{'domain': 'www.youtube.coi'}
+{'domain': 'www.youpube.com', 'dns-ns': ['ns1.parkingcrew.net', 'ns2.parkingcrew.net'], 'dns-A': ['185.53.178.6']}
+{'domain': 'ww-w.youtube.com'}
+{'domain': 'www.youtube.ckm'}
+{'domain': 'www.youtubu.com', 'dns-MX': ['mail.h-email.net'], 'dns-ns': ['ns1.parkingcrew.net', 'ns2.parkingcrew.net'], 'dns-A': ['185.53.179.6']}
+{'domain': 'wwww.youtube.com'}
+{'domain': 'wgw.youtube.com'}
+{'domain': '7ww.youtube.com'}
+{'domain': 'wwwyoutube.com.youtube.com'}
+{'domain': 'www.youvube.com', 'dns-A': ['74.208.64.244']}
+{'domain': 'www.youtubm.com', 'dns-A': ['74.208.64.244']}
+{'domain': 'www.youtuba.com', 'dns-A': ['69.162.80.59']}
+{'domain': 'www.youtqbe.com'}
+{'domain': 'www.ioutube.com', 'dns-ns': ['ns1.pql.net', 'ns2.pql.net', 'ns3.tppns.com', 'ns4.tppns.com'], 'dns-A': ['34.196.13.28']}
+{'domain': 'www.youtube.kom'}
+{'domain': 'wws.youtube.com'}
+{'domain': 'www.yout5be.com', 'dns-ns': ['ns1.dsredirection.com', 'ns2.dsredirection.com'], 'dns-A': ['208.73.210.202', '208.73.210.217', '208.73.211.165', '208.73.211.177']}
+{'domain': 'wwws.youtube.com'}
+{'domain': 'wuw.youtube.com'}
+{'domain': 'www.youtube.cgm'}
+{'domain': 'ww.youtube.com'}
+{'domain': 'w7w.youtube.com'}
+{'domain': 'gww.youtube.com'}
+{'domain': 'www.yottube.com', 'dns-MX': ['mx92.m1bp.com', 'mx92.mb5p.com'], 'dns-ns': ['ns1.above.com', 'ns2.above.com'], 'dns-A': ['103.224.182.246']}
+{'domain': 'wwv.youtube.com'}

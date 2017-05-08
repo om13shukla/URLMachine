@@ -1,0 +1,575 @@
+{
+  "domain": "giail.com",
+  "dns-MX": [
+    "mx92.m1bp.com",
+    "mx92.mb5p.com"
+  ],
+  "dns-ns": [
+    "ns1.above.com",
+    "ns2.above.com"
+  ],
+  "dns-A": [
+    "103.224.182.207"
+  ]
+}{
+  "domain": "gmil.com",
+  "dns-MX": [
+    "mail.yaxmail.net"
+  ],
+  "dns-ns": [
+    "ns8.webmasters.com",
+    "ns9.webmasters.com"
+  ],
+  "dns-A": [
+    "208.64.137.62"
+  ]
+}{
+  "domain": "gmaail.com",
+  "dns-ns": [
+    "ns1.dsredirection.com",
+    "ns2.dsredirection.com"
+  ],
+  "dns-A": [
+    "208.73.210.200",
+    "208.73.210.214",
+    "208.73.210.217",
+    "208.73.211.178"
+  ]
+}{
+  "domain": "gmayl.com",
+  "dns-ns": [
+    "ns1.namefind.com"
+  ],
+  "dns-A": [
+    "208.73.211.70"
+  ]
+}{
+  "domain": "wmail.com",
+  "dns-MX": [
+    "www.wmail.com"
+  ],
+  "dns-ns": [
+    "ns0.future-s.com",
+    "ns1.future-s.com"
+  ],
+  "dns-A": [
+    "219.99.160.10"
+  ]
+}{
+  "domain": "gmail.gom"
+}{
+  "domain": "gmali.com",
+  "dns-MX": [
+    "mailstore1.secureserver.net",
+    "smtp.secureserver.net"
+  ],
+  "dns-ns": [
+    "ns03.domaincontrol.com",
+    "ns04.domaincontrol.com"
+  ],
+  "dns-A": [
+    "50.63.202.24"
+  ]
+}{
+  "domain": "gmiil.com",
+  "dns-MX": [
+    "mx92.m1bp.com",
+    "mx92.mb5p.com"
+  ],
+  "dns-ns": [
+    "ns1.above.com",
+    "ns2.above.com"
+  ],
+  "dns-A": [
+    "103.224.182.238"
+  ]
+}{
+  "domain": "email.com",
+  "dns-MX": [
+    "mx00.mail.com",
+    "mx01.mail.com"
+  ],
+  "dns-ns": [
+    "pdns1.ultradns.net",
+    "pdns2.ultradns.net",
+    "pdns3.ultradns.org",
+    "pdns4.ultradns.org",
+    "pdns5.ultradns.info",
+    "pdns6.ultradns.co.uk"
+  ],
+  "dns-A": [
+    "141.8.224.143"
+  ]
+}{
+  "domain": "gmail.cnm"
+}{
+  "domain": "gmcil.com",
+  "dns-MX": [
+    "gmcil-com.mail.protection.outlook.com"
+  ],
+  "dns-ns": [
+    "44294.earth.orderbox-dns.com",
+    "44294.mars.orderbox-dns.com",
+    "44294.mercury.orderbox-dns.com",
+    "44294.venus.orderbox-dns.com"
+  ],
+  "dns-A": [
+    "173.193.106.10"
+  ]
+}{
+  "domain": "glail.com",
+  "dns-ns": [
+    "ns1.googledomains.com",
+    "ns2.googledomains.com",
+    "ns3.googledomains.com",
+    "ns4.googledomains.com"
+  ]
+}{
+  "domain": "gmailncom"
+}{
+  "domain": "gmael.com",
+  "dns-MX": [
+    "mx76.m2bp.com",
+    "mx76.mb1p.com"
+  ],
+  "dns-ns": [
+    "ns1.bodis.com",
+    "ns2.bodis.com"
+  ],
+  "dns-A": [
+    "199.59.243.120"
+  ]
+}{
+  "domain": "geail.com",
+  "dns-ns": [
+    "ns1.namefind.com"
+  ],
+  "dns-A": [
+    "208.73.211.70"
+  ]
+}{
+  "domain": "gmaul.com",
+  "dns-MX": [
+    "mail.b-io.co"
+  ],
+  "dns-ns": [
+    "ns1.pql.net",
+    "ns2.pql.net"
+  ],
+  "dns-A": [
+    "54.235.212.68"
+  ]
+}{
+  "domain": "gmail.aom"
+}{
+  "domain": "gmaml.com"
+}{
+  "domain": "gmial.com",
+  "dns-MX": [
+    "mail.b-io.co"
+  ],
+  "dns-ns": [
+    "janet.ns.cloudflare.com",
+    "seth.ns.cloudflare.com"
+  ],
+  "dns-AAAA": [
+    "2400:cb00:2048:1::6818:6805",
+    "2400:cb00:2048:1::6818:6905"
+  ],
+  "dns-A": [
+    "104.24.104.5",
+    "104.24.105.5"
+  ]
+}{
+  "domain": "gmail.co-"
+}{
+  "domain": "ggmail.com",
+  "dns-ns": [
+    "ns1.milesmx.com",
+    "ns2.milesmx.com"
+  ],
+  "dns-A": [
+    "184.172.106.42"
+  ]
+}{
+  "domain": "omail.com",
+  "dns-MX": [
+    "smtpmx.myorangeoffice.com"
+  ],
+  "dns-ns": [
+    "ns1.lerelaisinternet.com",
+    "ns2.lerelaisinternet.com"
+  ],
+  "dns-A": [
+    "194.206.126.204"
+  ]
+}{
+  "domain": "gmai.com",
+  "dns-MX": [
+    "mail.flip-mail.com"
+  ],
+  "dns-ns": [
+    "ns1.smtmdns.com",
+    "ns2.smtmdns.com"
+  ],
+  "dns-A": [
+    "216.157.88.26"
+  ]
+}{
+  "domain": "gmuil.com",
+  "dns-ns": [
+    "ns1.torresdns.com",
+    "ns2.torresdns.com"
+  ],
+  "dns-A": [
+    "158.69.145.48"
+  ]
+}{
+  "domain": "gail.com",
+  "dns-MX": [
+    "mail.protonmail.ch"
+  ],
+  "dns-ns": [
+    "ns1.gail.com",
+    "ns2.gail.com",
+    "ns3.gail.com"
+  ],
+  "dns-A": [
+    "162.243.151.28"
+  ]
+}{
+  "domain": "gmail.coe"
+}{
+  "domain": "gmailz.com",
+  "dns-A": [
+    "103.51.144.81"
+  ],
+  "dns-MX": [
+    "mail.skrimple.com"
+  ]
+}{
+  "domain": "gmahl.com",
+  "dns-MX": [
+    "mx92.m1bp.com",
+    "mx92.mb5p.com"
+  ],
+  "dns-ns": [
+    "ns1.above.com",
+    "ns2.above.com"
+  ],
+  "dns-A": [
+    "103.224.212.222"
+  ]
+}{
+  "domain": "cmail.com",
+  "dns-ns": [
+    "ns1.uniregistrymarket.link",
+    "ns2.uniregistrymarket.link"
+  ],
+  "dns-A": [
+    "69.172.201.153"
+  ]
+}{
+  "domain": "gmaim.com",
+  "dns-MX": [
+    "mx92.m1bp.com",
+    "mx92.mb5p.com"
+  ],
+  "dns-ns": [
+    "ns1.above.com",
+    "ns2.above.com"
+  ],
+  "dns-A": [
+    "103.224.182.217"
+  ]
+}{
+  "domain": "gmmail.com",
+  "dns-ns": [
+    "ns1.systemdns.com",
+    "ns2.systemdns.com",
+    "ns3.systemdns.com"
+  ],
+  "dns-A": [
+    "64.99.64.37"
+  ]
+}{
+  "domain": "gma-il.com"
+}{
+  "domain": "gmail.ckm"
+}{
+  "domain": "gmail.cmm"
+}{
+  "domain": "g-ail.com"
+}{
+  "domain": "gmai-l.com",
+  "dns-MX": [
+    "mail-12345678.gmai-l.com"
+  ],
+  "dns-ns": [
+    "charles.ns.cloudflare.com",
+    "jocelyn.ns.cloudflare.com"
+  ],
+  "dns-A": [
+    "71.19.144.67"
+  ]
+}{
+  "domain": "g-mail.com",
+  "dns-ns": [
+    "ns1.googledomains.com",
+    "ns2.googledomains.com",
+    "ns3.googledomains.com",
+    "ns4.googledomains.com"
+  ]
+}{
+  "domain": "gmaih.com"
+}{
+  "domain": "gmail.coo"
+}{
+  "domain": "gmail.kom"
+}{
+  "domain": "gmail.com",
+  "dns-MX": [
+    "alt1.gmail-smtp-in.l.google.com",
+    "alt2.gmail-smtp-in.l.google.com",
+    "alt3.gmail-smtp-in.l.google.com",
+    "alt4.gmail-smtp-in.l.google.com",
+    "gmail-smtp-in.l.google.com"
+  ],
+  "dns-ns": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dns-AAAA": [
+    "2607:f8b0:4002:c09::12"
+  ],
+  "dns-A": [
+    "64.233.185.17",
+    "64.233.185.18",
+    "64.233.185.19",
+    "64.233.185.83"
+  ]
+}{
+  "domain": "gmail.col"
+}{
+  "domain": "goail.com",
+  "dns-MX": [
+    "mail.goail.com"
+  ],
+  "dns-ns": [
+    "ns.nextline.net",
+    "ns2.nextline.net"
+  ],
+  "dns-A": [
+    "211.245.21.121"
+  ]
+}{
+  "domain": "fmail.com",
+  "dns-MX": [
+    "alt1.aspmx.l.google.com",
+    "alt2.aspmx.l.google.com",
+    "aspmx.l.google.com",
+    "aspmx2.googlemail.com",
+    "aspmx3.googlemail.com",
+    "aspmx4.googlemail.com",
+    "aspmx5.googlemail.com"
+  ],
+  "dns-ns": [
+    "ns0.dnsmadeeasy.com",
+    "ns1.dnsmadeeasy.com",
+    "ns2.dnsmadeeasy.com",
+    "ns3.dnsmadeeasy.com",
+    "ns4.dnsmadeeasy.com"
+  ],
+  "dns-A": [
+    "96.45.82.181",
+    "96.45.82.59",
+    "96.45.83.170",
+    "96.45.83.5"
+  ]
+}{
+  "domain": "wgmail.com",
+  "dns-MX": [
+    "localhost"
+  ],
+  "dns-ns": [
+    "ns1.sedoparking.com",
+    "ns2.sedoparking.com"
+  ],
+  "dns-A": [
+    "72.52.4.120"
+  ]
+}{
+  "domain": "gmaiil.com",
+  "dns-ns": [
+    "ns1.dsredirection.com",
+    "ns2.dsredirection.com"
+  ],
+  "dns-A": [
+    "208.73.210.200",
+    "208.73.210.214",
+    "208.73.210.217",
+    "208.73.211.178"
+  ]
+}{
+  "domain": "gmail.bom"
+}{
+  "domain": "mail.com",
+  "dns-A": [
+    "74.208.122.4"
+  ],
+  "dns-MX": [
+    "mx00.mail.com",
+    "mx01.mail.com"
+  ]
+}{
+  "domain": "gmoil.com",
+  "dns-ns": [
+    "ns1.sprintout.com",
+    "seconly.rackspace.com"
+  ],
+  "dns-MX": [
+    "mx1.emailsrvr.com",
+    "mx2.emailsrvr.com"
+  ]
+}{
+  "domain": "gmails.com",
+  "dns-A": [
+    "184.154.126.180"
+  ]
+}{
+  "domain": "wwgmail.com",
+  "dns-ns": [
+    "ns1.dsredirection.com",
+    "ns2.dsredirection.com"
+  ],
+  "dns-A": [
+    "208.73.210.200",
+    "208.73.210.214",
+    "208.73.210.217",
+    "208.73.211.178"
+  ]
+}{
+  "domain": "gmail.som"
+}{
+  "domain": "wwwgmail.com",
+  "dns-ns": [
+    "ns1.googledomains.com",
+    "ns2.googledomains.com",
+    "ns3.googledomains.com",
+    "ns4.googledomains.com"
+  ]
+}{
+  "domain": "gmakl.com",
+  "dns-MX": [
+    "mail.gmakl.com"
+  ],
+  "dns-ns": [
+    "ns49.domaincontrol.com",
+    "ns50.domaincontrol.com"
+  ],
+  "dns-A": [
+    "74.63.111.248"
+  ]
+}{
+  "domain": "gmail.cgm"
+}{
+  "domain": "gmail.coi"
+}{
+  "domain": "gmaid.com",
+  "dns-ns": [
+    "ns1.namebrightdns.com",
+    "ns2.namebrightdns.com"
+  ],
+  "dns-A": [
+    "52.0.184.211",
+    "54.164.249.255"
+  ]
+}{
+  "domain": "gmaill.com",
+  "dns-ns": [
+    "ns1.googledomains.com",
+    "ns2.googledomains.com",
+    "ns3.googledomains.com",
+    "ns4.googledomains.com"
+  ]
+}{
+  "domain": "gmain.com",
+  "dns-ns": [
+    "ns1.rentondc.com",
+    "ns2.rentondc.com"
+  ],
+  "dns-A": [
+    "158.69.143.113"
+  ]
+}{
+  "domain": "gmaol.com",
+  "dns-A": [
+    "118.193.29.141",
+    "118.193.29.142"
+  ]
+}{
+  "domain": "gmal.com",
+  "dns-ns": [
+    "ns1.googledomains.com",
+    "ns2.googledomains.com",
+    "ns3.googledomains.com",
+    "ns4.googledomains.com"
+  ]
+}{
+  "domain": "gmaal.com",
+  "dns-MX": [
+    "localhost"
+  ],
+  "dns-ns": [
+    "ns1.sedoparking.com",
+    "ns2.sedoparking.com"
+  ],
+  "dns-A": [
+    "72.52.4.120"
+  ]
+}{
+  "domain": "gm-ail.com"
+}{
+  "domain": "gmqil.com",
+  "dns-A": [
+    "67.229.134.179",
+    "67.229.33.51",
+    "67.229.34.179"
+  ]
+}{
+  "domain": "gmeil.com",
+  "dns-ns": [
+    "ns1.torresdns.com",
+    "ns2.torresdns.com"
+  ],
+  "dns-A": [
+    "81.171.22.6"
+  ]
+}{
+  "domain": "gmailcom.com",
+  "dns-ns": [
+    "ns1.smtmdns.com",
+    "ns2.smtmdns.com"
+  ],
+  "dns-A": [
+    "216.157.88.22"
+  ]
+}{
+  "domain": "gamil.com",
+  "dns-MX": [
+    "mx7.webfaction.com",
+    "mx8.webfaction.com",
+    "mx9.webfaction.com"
+  ],
+  "dns-ns": [
+    "ns1.webfaction.com",
+    "ns2.webfaction.com",
+    "ns3.webfaction.com",
+    "ns4.webfaction.com"
+  ],
+  "dns-A": [
+    "207.38.86.14"
+  ]
+}
